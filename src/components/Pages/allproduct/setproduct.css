@@ -1,0 +1,33 @@
+.product-card-item {
+    box-shadow: none !important;
+  }
+  .product-card-item .ant-card-body {
+    padding-left: 0;
+    padding-right: 0;
+    box-shadow: none;
+    min-height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .product-card-item .ant-card-body:before,
+  .product-card-item .ant-card-body:after {
+    display: none;
+  }
+  .product-card-item img {
+    height: 270px;
+    object-fit: cover;
+  }
+  .product-card-item .ant-card-body .ant-rate {
+    font-size: 13px;
+    margin-bottom: 5px;
+  }
+  .product-card-item .ant-card-body .action span {
+    font-weight: bold;
+  }
+  .product-card-item button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;  
+  }

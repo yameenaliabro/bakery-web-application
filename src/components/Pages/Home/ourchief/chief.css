@@ -1,0 +1,41 @@
+.container-chief{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    text-align: center;
+    border: none;
+    position: relative;
+}
+.card-main-chief {
+ padding: 0px; 
+ height: 500px;
+}
+.client-col{
+    background-color: #2B2825 !important;
+    margin: 0px;
+    padding-bottom: 5px;
+}
+.client-col p{
+    color: #fff;
+}
+.client-col h1{
+    color:  #E88F2A !important;;
+    font-weight: bold;
+}
+.card-main-chief img{
+    width: 350px !important;
+}
+.upper-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    height: 40vh;  
+    padding-top: 100px;  
+}
+.upper-heading h1{
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 30px;
+}

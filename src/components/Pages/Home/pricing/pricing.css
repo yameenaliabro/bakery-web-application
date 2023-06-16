@@ -1,0 +1,29 @@
+.main-pricing-main{
+    display: flex;
+    justify-content: center;
+    align-content: center;    
+    flex-flow: row wrap;
+    min-width: 0;
+}
+.main-pricing{
+    position: relative;
+    display: flex;
+    flex: auto;
+    align-self: stretch;
+    overflow: hidden;
+    white-space:nowrap;
+    transform: translate();
+    justify-content: center;
+    align-content: center;
+}
+.ant-tabs >.ant-tabs-nav .ant-tabs-nav-wrap{
+    position: relative !important;
+    display: flex !important;
+    flex: auto !important ;
+    align-self: stretch !important ;
+    overflow: hidden !important;
+    white-space:nowrap !important;
+    transform: translate() !important ;
+    justify-content: center !important;
+    align-content: center !important;
+}

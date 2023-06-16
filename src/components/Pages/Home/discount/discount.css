@@ -1,0 +1,48 @@
+.container-discount {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+}
+
+.discount-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--moniz-black, #1A1F33) !important;
+}
+.discount-card p {
+    color: #fff !important;
+    font-size: 16px;
+}
+
+.discount-card h1 {
+    font-weight: bold;
+    color: #fff;
+}
+
+.discount-card button {
+    font-size: 17px;
+}
+
+.fotter-discount {
+    background-color: #2B2825 !important;
+    position: absolute;
+    color: #fff;
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.col-heading {
+    margin-top: 200px;
+}
+
+.col-heading h2 {
+    font-weight: bold;
+    font-size: 25px;
+}

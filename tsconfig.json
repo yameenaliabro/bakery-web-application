@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "src/components/Pages/auth/login/Login.tsx"  ]
 }

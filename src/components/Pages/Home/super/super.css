@@ -1,0 +1,47 @@
+.back-img {
+    background-image: url("../../../../assets/img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: linear-gradient(rgba(43, 40, 37, .9), rgba(43, 40, 37, .9)), ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    height: 400px;
+}
+
+.middle-heading-super {
+    margin-top: 40px;
+    color: #fff;
+}
+
+.middle-heading-super h1 {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.middle-heading-super h3 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.middle-heading-super p {
+    line-height: 20px;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.fotter-row-super {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.fotter-row-super button {
+    margin: 20px !important;
+    width: 120px;
+    height: 40px;
+}

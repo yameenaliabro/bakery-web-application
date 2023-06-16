@@ -1,0 +1,17 @@
+.inner-banner{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    color: #fff;
+    height: 270px;
+    background-repeat: no-repeat;
+    background-position: right 100% bottom 54%;
+    background-image: url("../../../assets/img/hero.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+.inner-banner h1{
+    color: #fff;
+}

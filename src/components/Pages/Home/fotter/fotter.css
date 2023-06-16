@@ -1,0 +1,42 @@
+.main-row-fotter{
+    display: flex;
+    justify-content: space-around;
+    background-color: #2B2825 !important;
+    height: 400px;
+
+}
+.fotter-card{
+    background-color: #E88F2A !important;
+    color: #fff;
+    margin-top: 50px;
+    height: 250px;
+    text-align: center;
+}
+.fotter-card h1{
+    font-weight: bold;
+}
+.middle-fotter{
+    margin-top: 50px;
+    color: #fff;
+}
+.middle-fotter h3{
+    font-weight: bold !important;
+    padding-top: 20px;
+    line-height: 20px;
+}
+.middle-fotter p{
+    line-height: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.main-row-icon{
+    color: #fff;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.main-row-icon i{
+    background-color: #E88F2A;
+    padding: 15px 15px 15px 15px;
+    margin: 15px;
+}

@@ -1,0 +1,31 @@
+.middle-heading-brithday{
+    margin-left: 15px;
+    background-color: #FAF3EB !important;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.main-row-main{
+    display: flex;
+    justify-content: center;
+    align-items: ce;
+}
+.main-row-brithday{
+padding: 10px;
+display: flex;
+justify-content: center;
+align-content: center;
+}
+.main-row-brithday p{
+margin-left: 15px;
+font-size: 15px;
+}
+.main-row-brithday h1{
+margin-left: 15px;
+font-weight: bold;
+}
+.main-row-brithday img{
+    width: 150px !important;
+    height: 100px !important;
+}
