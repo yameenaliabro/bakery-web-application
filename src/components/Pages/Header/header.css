@@ -18,3 +18,10 @@
 .header-row h1{
     font-weight: bolder;
 }
+
+.ant-menu-horizontal .ant-menu-item-selected{
+    color: #fdd400 !important; 
+  }
+.ant-menu-horizontal .ant-menu-item:hover{
+    color: #fdd400  !important;
+}
